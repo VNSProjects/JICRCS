@@ -1,0 +1,892 @@
+,Index,course_title,course_organization,course_Certificate_type,course_rating,course_difficulty,course_students_enrolled
+0,134,isc ² systems security certified practitioner sscp,(ISC)²,SPECIALIZATION,4.7,Beginner,5.3k
+1,743,crash course causality inferring causal effects observational data,University of Pennsylvania,COURSE,4.7,Intermediate,17k
+2,874,crash course data science,Johns Hopkins University,COURSE,4.5,Mixed,130k
+3,413,law student toolkit,Yale University,COURSE,4.7,Mixed,91k
+4,635,life happiness fulfillment,Indian School of Business,COURSE,4.8,Mixed,320k
+5,661,adhd everyday strategies elementary students,University at Buffalo,COURSE,4.7,Beginner,39k
+6,54,ai everyone,deeplearning.ai,COURSE,4.8,Beginner,350k
+7,488,ai medical treatment,deeplearning.ai,COURSE,4.8,Intermediate,2.4k
+8,58,ai foundations everyone,IBM,SPECIALIZATION,4.7,Beginner,61k
+9,129,ai medical diagnosis,deeplearning.ai,COURSE,4.7,Intermediate,12k
+10,283,ai medical prognosis,deeplearning.ai,COURSE,4.6,Intermediate,4k
+11,35,ai medicine,deeplearning.ai,SPECIALIZATION,4.7,Intermediate,13k
+12,43,aws fundamentals,Amazon Web Services,SPECIALIZATION,4.6,Beginner,130k
+13,631,aws fundamentals addressing security risk,Amazon Web Services,COURSE,4.3,Beginner,11k
+14,861,aws fundamentals building serverless applications,Amazon Web Services,COURSE,4.7,Beginner,27k
+15,281,aws fundamentals going cloud native,Amazon Web Services,COURSE,4.7,Beginner,110k
+16,828,aws fundamentals migrating cloud,Amazon Web Services,COURSE,4.5,Intermediate,13k
+17,819,aboriginal worldviews education,University of Toronto,COURSE,4.7,Mixed,6.6k
+18,63,academic english writing,"University of California, Irvine",SPECIALIZATION,4.7,Beginner,540k
+19,142,accelerated computer science fundamentals,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.7,Intermediate,22k
+20,612,access controls,(ISC)²,COURSE,4.6,Beginner,2.9k
+21,604,accounting analytics,University of Pennsylvania,COURSE,4.5,Mixed,80k
+22,727,accounting decision making,University of Michigan,COURSE,4.8,Intermediate,9.9k
+23,51,achieving personal professional success,University of Pennsylvania,SPECIALIZATION,4.7,Beginner,110k
+24,838,actualización en el manejo del paciente con diabetes mellitus tipo 2,Universidad Nacional Autónoma de México,COURSE,4.8,Mixed,23k
+25,330,addiction treatment clinical skills healthcare providers,Yale University,COURSE,4.8,Beginner,9.2k
+26,247,advanced business analytics,University of Colorado Boulder,SPECIALIZATION,4.5,Intermediate,78k
+27,157,advanced data science ibm,IBM,SPECIALIZATION,4.4,Advanced,320k
+28,103,advanced machine learning,National Research University Higher School of Economics,SPECIALIZATION,4.5,Advanced,190k
+29,324,advanced machine learning tensorflow google cloud platform,Google Cloud,SPECIALIZATION,4.5,Advanced,35k
+30,266,advanced valuation strategy private equity venture capital,Erasmus University Rotterdam,COURSE,4.7,Advanced,29k
+31,825,advertising society,Duke University,COURSE,4.8,Mixed,14k
+32,853,age cathedrals,Yale University,COURSE,4.7,Beginner,21k
+33,75,agile development,University of Virginia,SPECIALIZATION,4.7,Beginner,94k
+34,482,agile meets design thinking,University of Virginia,COURSE,4.7,Beginner,69k
+35,212,agile atlassian jira,Atlassian,COURSE,4.7,Beginner,40k
+36,846,agile и scrum в работе над проектами и продуктами,ScrumTrek,COURSE,4.9,Beginner,12k
+37,561,algorithmic toolbox,University of California San Diego,COURSE,4.7,Intermediate,220k
+38,78,algorithms,Stanford University,SPECIALIZATION,4.8,Intermediate,150k
+39,242,algorithms battery management systems,University of Colorado System,SPECIALIZATION,4.8,Intermediate,14k
+40,322,american contract law,Yale University,COURSE,4.9,Beginner,18k
+41,159,introduction american law,University of Pennsylvania,COURSE,4.8,Beginner,23k
+42,265,introduction consumer neuroscience neuromarketing,Copenhagen Business School,COURSE,4.7,Beginner,69k
+43,151,introduction programming internet things iot,"University of California, Irvine",SPECIALIZATION,4.6,Beginner,270k
+44,752,analysing numeric digital literacies,Macquarie University,SPECIALIZATION,4.6,Beginner,7.9k
+45,119,anatomy,University of Michigan,SPECIALIZATION,4.8,Beginner,30k
+46,302,anatomy chest abdomen pelvis,Yale University,COURSE,4.8,Intermediate,36k
+47,508,anatomy musculoskeletal integumentary systems,University of Michigan,COURSE,4.8,Beginner,20k
+48,797,ancient philosophy aristotle successors,University of Pennsylvania,COURSE,4.8,Mixed,8.1k
+49,390,android app development,Vanderbilt University,SPECIALIZATION,4.5,Beginner,120k
+50,201,animal behaviour welfare,The University of Edinburgh,COURSE,4.8,Mixed,71k
+51,663,antibiotic stewardship,Stanford University,COURSE,4.5,Advanced,11k
+52,514,anticorrupción introducción conceptos perspectiva práctica,Universidad Nacional Autónoma de México,COURSE,4.8,Beginner,11k
+53,799,antimicrobial resistance theory methods,Technical University of Denmark (DTU),COURSE,4.6,Intermediate,63k
+54,8,applied data science,IBM,SPECIALIZATION,4.6,Beginner,220k
+55,637,applied data science capstone,IBM,COURSE,4.7,Intermediate,42k
+56,26,applied data science python,University of Michigan,SPECIALIZATION,4.5,Intermediate,480k
+57,630,applied machine learning python,University of Michigan,COURSE,4.6,Intermediate,150k
+58,491,applied plotting charting data representation python,University of Michigan,COURSE,4.6,Intermediate,97k
+59,888,aprende programar con python,Universidad Austral,SPECIALIZATION,4.2,Beginner,6.6k
+60,512,aprender,Universidad Nacional Autónoma de México,COURSE,4.8,Mixed,200k
+61,551,aprendiendo aprender poderosas herramientas mentales con las que podrás dominar temas difíciles learning learn,University of California San Diego,COURSE,4.9,Beginner,180k
+62,437,architecting google cloud platform 日本語版,Google Cloud,SPECIALIZATION,4.5,Intermediate,4.2k
+63,10,architecting google compute engine,Google Cloud,SPECIALIZATION,4.7,Intermediate,310k
+64,573,architecting google kubernetes engine 日本語版,Google Cloud,SPECIALIZATION,4.5,Beginner,3.9k
+65,56,arizona state university tesol,Arizona State University,PROFESSIONAL CERTIFICATE,4.9,Beginner,150k
+66,479,art activity interactive strategies engaging art,The Museum of Modern Art,COURSE,4.8,Mixed,79k
+67,452,art ideas teaching themes,The Museum of Modern Art,COURSE,4.8,Mixed,31k
+68,651,arts culture strategy,National Arts Strategies,COURSE,4.6,Mixed,15k
+69,326,arts heritage management,Università Bocconi,COURSE,4.8,Mixed,15k
+70,877,aspectos básicos de la planificación la gestión de proyectos,University of Virginia,COURSE,4.9,Beginner,10k
+71,753,astrobiology search extraterrestrial life,The University of Edinburgh,COURSE,4.7,Mixed,66k
+72,782,atención primaria en salud el desafío de las enfermedades transmisibles,Pontificia Universidad Católica de Chile,COURSE,4.8,Intermediate,33k
+73,210,autism spectrum disorder,"University of California, Davis",COURSE,4.6,Mixed,56k
+74,885,autodesk cad cam manufacturing,Autodesk,SPECIALIZATION,4.8,Intermediate,7.3k
+75,468,autodesk cad cam cae mechanical engineering,Autodesk,SPECIALIZATION,4.8,Intermediate,9.2k
+76,702,autodesk certified professional autocad design drafting exam prep,Autodesk,COURSE,4.7,Advanced,22k
+77,590,autodesk certified professional revit architectural design exam prep,Autodesk,COURSE,4.7,Advanced,9.7k
+78,816,bim fundamentals engineers,National Taiwan University,COURSE,4.6,Beginner,13k
+79,642,basic statistics,University of Amsterdam,COURSE,4.6,Beginner,180k
+80,493,bayesian statistics concept data analysis,"University of California, Santa Cruz",COURSE,4.8,Intermediate,91k
+81,602,bayesian statistics techniques models,"University of California, Santa Cruz",COURSE,4.8,Intermediate,29k
+82,106,become cbrs certified professional installer google,Google - Spectrum Sharing,COURSE,4.9,Mixed,210k
+83,294,become journalist report news,Michigan State University,SPECIALIZATION,4.7,Beginner,28k
+84,809,become sustainable business change agent,University of Colorado System,SPECIALIZATION,4.7,Intermediate,4.2k
+85,776,becoming sports agent,Case Western Reserve University,COURSE,4.7,Beginner,6.5k
+86,672,becoming changemaker introduction social innovation,University of Cape Town,COURSE,4.8,Beginner,61k
+87,269,behavioral finance,Duke University,COURSE,4.4,Mixed,55k
+88,456,beyond sustainable development goals sdgs addressing sustainability development,University of Michigan,COURSE,4.6,Mixed,2.3k
+89,498,big data introducción al uso práctico de datos masivos,Universitat Autònoma de Barcelona,SPECIALIZATION,4.5,Beginner,8.8k
+90,687,biohacking brain health,Emory University,COURSE,4.6,Beginner,35k
+91,565,biology meets programming bioinformatics beginners,University of California San Diego,COURSE,4.4,Beginner,88k
+92,131,biostatistics public health,Johns Hopkins University,SPECIALIZATION,4.8,Beginner,14k
+93,751,blended language learning design practice teachers,University of Colorado Boulder,COURSE,4.8,Intermediate,1.9k
+94,251,blockchain,University at Buffalo,SPECIALIZATION,4.6,Intermediate,68k
+95,143,blockchain revolution,INSEAD,SPECIALIZATION,4.7,Beginner,21k
+96,462,blockchain revolution financial services,INSEAD,SPECIALIZATION,4.6,Beginner,1.6k
+97,719,blockchain foundations use cases,ConsenSys Academy,COURSE,4.7,Beginner,31k
+98,645,boosting creativity innovation,HEC Paris,COURSE,4.9,Beginner,9.5k
+99,72,brand management aligning business brand behaviour,London Business School,COURSE,4.9,Beginner,57k
+100,238,branding creative journey,IE Business School,SPECIALIZATION,4.6,Beginner,26k
+101,486,budgeting scheduling projects,"University of California, Irvine",COURSE,4.7,Mixed,84k
+102,688,bugs 101 insect human interactions,University of Alberta,COURSE,4.9,Beginner,15k
+103,395,build modern computer first principles nand tetris project centered course,Hebrew University of Jerusalem,COURSE,4.9,Mixed,95k
+104,653,building batch data pipelines gcp,Google Cloud,COURSE,4.5,Intermediate,7.3k
+105,670,building conversational experiences dialogflow,Google Cloud,COURSE,4.5,Beginner,22k
+106,884,building resilient streaming analytics systems gcp,Google Cloud,COURSE,4.6,Intermediate,5.8k
+107,610,building scalable java microservices spring boot spring cloud,Google Cloud,COURSE,4.3,Intermediate,24k
+108,824,building leadership skills,HEC Paris,COURSE,4.5,Mixed,67k
+109,17,business analytics,University of Pennsylvania,SPECIALIZATION,4.6,Beginner,280k
+110,611,business english,Arizona State University,SPECIALIZATION,4.7,Intermediate,38k
+111,168,business english communication skills,University of Washington,SPECIALIZATION,4.7,Intermediate,120k
+112,738,business english networking,University of Washington,COURSE,4.7,Intermediate,77k
+113,7,business foundations,University of Pennsylvania,SPECIALIZATION,4.7,Beginner,510k
+114,410,business model innovation,HEC Paris,COURSE,4.7,Mixed,13k
+115,96,business statistics analysis,Rice University,SPECIALIZATION,4.7,Beginner,110k
+116,126,business strategies better world,University of Pennsylvania,SPECIALIZATION,4.7,Beginner,24k
+117,104,business strategy,University of Virginia,SPECIALIZATION,4.7,Beginner,89k
+118,233,business technology management,Indian School of Business,SPECIALIZATION,4.5,Beginner,67k
+119,478,business transformation google cloud,Google Cloud,COURSE,4.7,Beginner,10k
+120,539,business writing,University of Colorado Boulder,COURSE,4.8,Beginner,48k
+121,23,business financial modeling,University of Pennsylvania,SPECIALIZATION,4.5,Beginner,160k
+122,662,c everyone programming fundamentals,"University of California, Santa Cruz",COURSE,4.5,Beginner,31k
+123,222,c programming unity game development,University of Colorado System,SPECIALIZATION,4.7,Beginner,36k
+124,21,covid 19 contact tracing,Johns Hopkins University,COURSE,4.9,Beginner,220k
+125,450,covid 19 need know cme eligible,Osmosis,COURSE,4.8,Beginner,32k
+126,525,cameras exposure photography,Michigan State University,COURSE,4.7,Mixed,130k
+127,107,camino la excelencia en gestión de proyectos,Pontificia Universidad Católica de Chile,COURSE,4.7,Beginner,340k
+128,536,capstone retrieving processing visualizing data python,University of Michigan,COURSE,4.6,Mixed,82k
+129,44,career success,"University of California, Irvine",SPECIALIZATION,4.4,Beginner,790k
+130,736,challenging forensic science science speak court,University of Lausanne,COURSE,4.8,Beginner,31k
+131,718,chemicals health,Johns Hopkins University,COURSE,4.7,Beginner,23k
+132,726,chicken behaviour welfare,The University of Edinburgh,COURSE,4.7,Mixed,19k
+133,161,child nutrition cooking,Stanford University,COURSE,4.7,Beginner,30k
+134,737,chinese hsk 1,Peking University,COURSE,4.8,Beginner,22k
+135,95,cisco networking basics,Cisco,SPECIALIZATION,4.7,Beginner,57k
+136,848,classical sociological theory,University of Amsterdam,COURSE,4.8,Mixed,51k
+137,197,claves de la dirección de empresas,IESE Business School,SPECIALIZATION,4.8,Beginner,51k
+138,457,climate change health science action,Yale University,SPECIALIZATION,4.6,Beginner,4.8k
+139,275,clinical terminology international u students,University of Pittsburgh,COURSE,4.8,Beginner,32k
+140,349,cloud computing,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.4,Intermediate,110k
+141,777,cloud computing basics cloud 101,LearnQuest,COURSE,4.5,Beginner,37k
+142,9,cloud engineering google cloud,Google Cloud,PROFESSIONAL CERTIFICATE,4.7,Intermediate,310k
+143,276,coaching skills managers,"University of California, Davis",SPECIALIZATION,4.7,Intermediate,37k
+144,655,code introduction programming,The University of Edinburgh,COURSE,4.7,Beginner,120k
+145,709,communication skills engineers,Rice University,SPECIALIZATION,4.7,Beginner,15k
+146,305,communication strategies virtual age,University of Toronto,COURSE,4.8,Beginner,43k
+147,890,compassionate leadership service learning jane goodall roots shoots,University of Colorado Boulder,COURSE,4.9,Beginner,6.4k
+148,406,competencias digitales herramientas de ofimática microsoft word excel power point,Universitat Autònoma de Barcelona,COURSE,4.7,Beginner,43k
+149,474,competitive strategy organization design,Ludwig-Maximilians-Universität München (LMU),SPECIALIZATION,4.7,Intermediate,350k
+150,391,computational social science,"University of California, Davis",SPECIALIZATION,4.6,Beginner,5.8k
+151,221,computational thinking problem solving,University of Pennsylvania,COURSE,4.8,Beginner,33k
+152,621,computer security systems management,University of Colorado System,SPECIALIZATION,4.6,Beginner,27k
+153,439,conflict management,"University of California, Irvine",SPECIALIZATION,4.3,Beginner,66k
+154,728,construction cost estimating cost control,Columbia University,COURSE,4.7,Beginner,19k
+155,48,construction management,Columbia University,SPECIALIZATION,4.7,Beginner,61k
+156,290,construction project management,Columbia University,COURSE,4.8,Beginner,43k
+157,794,construction scheduling,Columbia University,COURSE,4.8,Beginner,15k
+158,300,contabilidad para contadores,Universidad Nacional Autónoma de México,COURSE,4.7,Beginner,220k
+159,273,content strategy professionals,Northwestern University,SPECIALIZATION,4.5,Beginner,27k
+160,448,continuous delivery devops,University of Virginia,COURSE,4.6,Beginner,26k
+161,815,control mobile robots,Georgia Institute of Technology,COURSE,4.8,Mixed,49k
+162,207,convolutional neural networks,deeplearning.ai,COURSE,4.9,Intermediate,240k
+163,358,convolutional neural networks tensorflow,deeplearning.ai,COURSE,4.7,Intermediate,46k
+164,725,corporate commercial law contracts employment law,University of Illinois at Urbana-Champaign,COURSE,4.8,Intermediate,10k
+165,458,corporate finance essentials,IESE Business School,COURSE,4.8,Mixed,56k
+166,714,corporate strategy,UCL School of Management,COURSE,4.8,Beginner,7.8k
+167,301,corporate sustainability understanding seizing strategic opportunity,Università Bocconi,COURSE,4.6,Mixed,10k
+168,691,corrección estilo variaciones de la lengua española,Universitat Autònoma de Barcelona,COURSE,4.6,Beginner,75k
+169,854,cost economics pricing strategy,University of Virginia,COURSE,4.8,Beginner,15k
+170,544,costos para los negocios,Universidad de Chile,COURSE,4.8,Intermediate,43k
+171,179,crash course python,Google,COURSE,4.8,Beginner,81k
+172,463,creative problem solving,University of Minnesota,COURSE,4.3,Mixed,140k
+173,59,creative writing,Wesleyan University,SPECIALIZATION,4.6,Beginner,140k
+174,371,creative writing craft plot,Wesleyan University,COURSE,4.7,Mixed,120k
+175,793,creatividad diseño e innovación técnicas herramientas,Arizona State University,SPECIALIZATION,4.7,Beginner,150k
+176,678,cuidado de heridas en el ámbito hospitalario,Universidad Nacional Autónoma de México,COURSE,4.8,Intermediate,26k
+177,730,cuidados procedimientos generales en la atención del recién nacido,Universidad de Chile,COURSE,4.8,Intermediate,22k
+178,248,culture driven team building,University of Pennsylvania,SPECIALIZATION,4.6,Beginner,17k
+179,820,curanderismo traditional healing using plants,University of New Mexico,COURSE,4.6,Beginner,5.5k
+180,566,customer segmentation prospecting,Northwestern University,COURSE,4.7,Beginner,18k
+181,372,cybersecurity,"University of Maryland, College Park",SPECIALIZATION,4.5,Intermediate,99k
+182,821,cybersecurity ten domains,University System of Georgia,COURSE,4.2,Beginner,140k
+183,497,cybersecurity business,University of Colorado System,SPECIALIZATION,4.6,Beginner,23k
+184,800,cómo hablar bien en público,Universitat Autònoma de Barcelona,COURSE,4.8,Beginner,55k
+185,764,dairy production management,The Pennsylvania State University,COURSE,4.8,Mixed,23k
+186,812,data analysis interpretation,Wesleyan University,SPECIALIZATION,4.4,Beginner,100k
+187,39,data analysis presentation skills pwc approach,PwC,SPECIALIZATION,4.6,Beginner,220k
+188,277,data analysis python,IBM,COURSE,4.7,Beginner,110k
+189,605,data analytics lean six sigma,University of Amsterdam,COURSE,4.8,Beginner,24k
+190,783,data collection processing python,University of Michigan,COURSE,4.7,Intermediate,19k
+191,679,data engineering google cloud platform 日本語版,Google Cloud,SPECIALIZATION,4.4,Intermediate,3k
+192,22,data engineering google cloud,Google Cloud,PROFESSIONAL CERTIFICATE,4.6,Intermediate,120k
+193,24,data engineering big data machine learning gcp,Google Cloud,SPECIALIZATION,4.6,Intermediate,120k
+194,383,data management clinical research,Vanderbilt University,COURSE,4.7,Beginner,42k
+195,434,data mining,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.4,Intermediate,140k
+196,13,data science,Johns Hopkins University,SPECIALIZATION,4.5,Beginner,830k
+197,399,data science math skills,Duke University,COURSE,4.5,Beginner,140k
+198,198,data science methodology,IBM,COURSE,4.6,Beginner,89k
+199,15,data science foundations using r,Johns Hopkins University,SPECIALIZATION,4.6,Beginner,740k
+200,148,data science statistics machine learning,Johns Hopkins University,SPECIALIZATION,4.4,Intermediate,210k
+201,686,data visualization communication tableau,Duke University,COURSE,4.7,Mixed,130k
+202,804,data visualization advanced excel,PwC,COURSE,4.8,Beginner,60k
+203,420,data visualization python,IBM,COURSE,4.6,Intermediate,66k
+204,70,data visualization tableau,"University of California, Davis",SPECIALIZATION,4.5,Beginner,96k
+205,288,data warehousing business intelligence,University of Colorado System,SPECIALIZATION,4.5,Advanced,140k
+206,871,data health indicators public health practice,Johns Hopkins University,COURSE,4.7,Beginner,18k
+207,376,data driven decision making,PwC,COURSE,4.6,Beginner,120k
+208,263,databases sql data science,IBM,COURSE,4.7,Beginner,110k
+209,519,de mystifying mindfulness,Universiteit Leiden,COURSE,4.8,Beginner,150k
+210,813,decision making scenarios,University of Pennsylvania,COURSE,4.6,Mixed,31k
+211,5,deep learning,deeplearning.ai,SPECIALIZATION,4.8,Intermediate,690k
+212,599,democracia decisiones públicas introducción al análisis de políticas públicas,Universitat Autònoma de Barcelona,COURSE,4.8,Beginner,44k
+213,806,dentistry 101,University of Michigan,COURSE,4.7,Beginner,4.5k
+214,627,dermatology trip skin,Novosibirsk State University ,COURSE,4.4,Beginner,8.2k
+215,100,design thinking innovation,University of Virginia,COURSE,4.6,Beginner,240k
+216,674,design thinking greater good innovation social sector,University of Virginia,COURSE,4.6,Beginner,17k
+217,139,design interpretation clinical trials,Johns Hopkins University,COURSE,4.7,Mixed,67k
+218,522,design make infographics project centered course,Michigan State University,COURSE,4.7,Mixed,97k
+219,430,design led strategy design thinking business strategy entrepreneurship,The University of Sydney,COURSE,4.6,Intermediate,19k
+220,338,developing apis google cloud apigee api platform,Google Cloud,SPECIALIZATION,4.6,Intermediate,16k
+221,18,developing applications google cloud platform,Google Cloud,SPECIALIZATION,4.7,Intermediate,300k
+222,644,developing applications google cloud platform 日本語版,Google Cloud,SPECIALIZATION,4.8,Intermediate,4k
+223,720,developing industrial internet things,University of Colorado Boulder,SPECIALIZATION,4.6,Intermediate,8k
+224,756,developing musicianship,Berklee College of Music,COURSE,4.8,Mixed,41k
+225,205,developing musicianship,Berklee College of Music,SPECIALIZATION,4.8,Beginner,54k
+226,397,devenir entrepreneur du changement,Ticket for Change,COURSE,4.7,Mixed,54k
+227,239,digital advertising strategy,University of Colorado Boulder,SPECIALIZATION,4.4,Beginner,9k
+228,855,digital business models,Lund University,COURSE,4.5,Beginner,21k
+229,237,digital manufacturing design technology,University at Buffalo,SPECIALIZATION,4.6,Beginner,37k
+230,28,digital marketing,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.6,Beginner,380k
+231,852,digital media marketing strategies,University of Illinois at Urbana-Champaign,COURSE,4.4,Mixed,57k
+232,53,digital product management,University of Virginia,SPECIALIZATION,4.7,Beginner,140k
+233,381,digital product management modern fundamentals,University of Virginia,COURSE,4.7,Beginner,58k
+234,490,dino 101 dinosaur paleobiology,University of Alberta,COURSE,4.5,Beginner,35k
+235,697,discrete optimization,The University of Melbourne,COURSE,4.9,Intermediate,40k
+236,675,diseño instruccional aprendizaje activo pedagogía digital,Tecnológico de Monterrey,SPECIALIZATION,4.6,Beginner,4k
+237,711,diseño creación de un emprendimiento social,Pontificia Universidad Católica de Chile,COURSE,4.9,Beginner,21k
+238,378,divide conquer sorting searching randomized algorithms,Stanford University,COURSE,4.8,Intermediate,130k
+239,392,dog emotion cognition,Duke University,COURSE,4.6,Mixed,150k
+240,624,driving business towards sustainable development goals,Erasmus University Rotterdam,COURSE,4.8,Beginner,5.6k
+241,487,drug commercialization,University of California San Diego,COURSE,4.7,Beginner,17k
+242,342,drug discovery,University of California San Diego,COURSE,4.6,Beginner,39k
+243,166,dynamic public speaking,University of Washington,SPECIALIZATION,4.7,Beginner,110k
+244,832,emt foundations,University of Colorado System,COURSE,4.8,Beginner,7.1k
+245,494,ecology ecosystem dynamics conservation,American Museum of Natural History,COURSE,4.8,Intermediate,18k
+246,641,econometrics methods applications,Erasmus University Rotterdam,COURSE,4.7,Mixed,110k
+247,229,economics money banking,Columbia University,COURSE,4.9,Mixed,83k
+248,707,ecosystem services method sustainable development,University of Geneva,COURSE,4.7,Intermediate,16k
+249,773,effective compliance programs,University of Pennsylvania,COURSE,4.9,Mixed,3.4k
+250,636,egiptología egyptology,Universitat Autònoma de Barcelona,COURSE,4.9,Beginner,46k
+251,789,el abogado del futuro legaltech la transformación digital del derecho,Universidad Austral,COURSE,5.0,Beginner,1.5k
+252,564,elastic google cloud infrastructure scaling automation,Google Cloud,COURSE,4.7,Intermediate,57k
+253,870,electric industry operations markets,Duke University,COURSE,4.8,Beginner,12k
+254,122,electronic music production,Berklee College of Music,SPECIALIZATION,4.8,Intermediate,110k
+255,733,emerging technologies smartphones iot big data,Yonsei University,SPECIALIZATION,4.6,Beginner,17k
+256,267,energy production distribution safety,University at Buffalo,SPECIALIZATION,4.7,Beginner,37k
+257,461,engineering health introduction yoga physiology,New York University,COURSE,4.8,Beginner,14k
+258,560,engineering project management initiating planning,Rice University,COURSE,4.7,Beginner,23k
+259,613,english composition,Duke University,COURSE,4.6,Beginner,200k
+260,225,english business entrepreneurship,University of Pennsylvania,COURSE,4.8,Beginner,230k
+261,175,english career development,University of Pennsylvania,COURSE,4.8,Mixed,760k
+262,303,english journalism,University of Pennsylvania,COURSE,4.8,Mixed,130k
+263,547,english research publication purposes,Moscow Institute of Physics and Technology,SPECIALIZATION,4.6,Intermediate,42k
+264,598,english science technology engineering mathematics,University of Pennsylvania,COURSE,4.8,Beginner,110k
+265,770,enterprise architecture,Peter the Great St. Petersburg Polytechnic University,COURSE,4.4,Beginner,2.4k
+266,292,entrepreneurial finance strategy innovation,Duke University,SPECIALIZATION,4.5,Intermediate,7.9k
+267,33,entrepreneurship,University of Pennsylvania,SPECIALIZATION,4.8,Beginner,110k
+268,246,entrepreneurship 1 developing opportunity,University of Pennsylvania,COURSE,4.8,Mixed,86k
+269,496,entrepreneurship 2 launching start,University of Pennsylvania,COURSE,4.8,Mixed,38k
+270,704,entrepreneurship 3 growth strategies,University of Pennsylvania,COURSE,4.7,Beginner,31k
+271,623,entrepreneurship strategy ideation exit,HEC Paris,COURSE,4.8,Beginner,20k
+272,502,entrepreneurship launching innovative business,"University of Maryland, College Park",SPECIALIZATION,4.6,Beginner,69k
+273,527,epidemics dynamics infectious diseases,The Pennsylvania State University,COURSE,4.8,Mixed,45k
+274,570,epidemics pandemics outbreaks,University of Pittsburgh,COURSE,4.7,Mixed,23k
+275,426,epidemiology public health,Imperial College London,SPECIALIZATION,4.7,Beginner,6.4k
+276,60,epidemiology public health practice,Johns Hopkins University,SPECIALIZATION,4.7,Beginner,31k
+277,351,epidemiology basic science public health,The University of North Carolina at Chapel Hill,COURSE,4.6,Mixed,130k
+278,708,epigenetic control gene expression,The University of Melbourne,COURSE,4.8,Mixed,35k
+279,444,equine welfare management,"University of California, Davis",COURSE,4.8,Beginner,7.2k
+280,693,esports,"University of California, Irvine",SPECIALIZATION,4.5,Beginner,1.8k
+281,454,essential epidemiologic tools public health practice,Johns Hopkins University,COURSE,4.7,Beginner,14k
+282,446,essential google cloud infrastructure core services,Google Cloud,COURSE,4.7,Intermediate,68k
+283,347,essential google cloud infrastructure foundation,Google Cloud,COURSE,4.7,Intermediate,83k
+284,314,essentials clinical simulations across health professions,The George Washington University,COURSE,4.8,Intermediate,4.1k
+285,436,essentials corporate finance,The University of Melbourne,SPECIALIZATION,4.6,Intermediate,54k
+286,319,essentials global health,Yale University,COURSE,4.8,Mixed,31k
+287,847,estadística probabilidad,Universidad Nacional Autónoma de México,COURSE,4.7,Beginner,27k
+288,881,evaluación educativa,Universidad Nacional Autónoma de México,SPECIALIZATION,4.8,Beginner,13k
+289,256,everyday excel part 1,University of Colorado Boulder,COURSE,4.8,Beginner,11k
+290,278,everyday parenting abcs child rearing,Yale University,COURSE,4.9,Beginner,86k
+291,11,excel skills business,Macquarie University,SPECIALIZATION,4.9,Beginner,240k
+292,591,excel skills business advanced,Macquarie University,COURSE,4.7,Intermediate,39k
+293,92,excel skills business essentials,Macquarie University,COURSE,4.9,Beginner,200k
+294,218,excel skills business intermediate,Macquarie University,COURSE,4.9,Intermediate,76k
+295,419,excel skills business intermediate ii,Macquarie University,COURSE,4.8,Intermediate,39k
+296,38,excel mysql analytic techniques business,Duke University,SPECIALIZATION,4.6,Beginner,490k
+297,124,excel vba creative problem solving,University of Colorado Boulder,SPECIALIZATION,4.8,Beginner,56k
+298,418,excel vba creative problem solving part 1,University of Colorado Boulder,COURSE,4.8,Beginner,54k
+299,137,executive data science,Johns Hopkins University,SPECIALIZATION,4.5,Beginner,170k
+300,880,explorando la energía sustentable,Pontificia Universidad Católica de Chile,COURSE,4.8,Beginner,28k
+301,99,fashion design,The Museum of Modern Art,COURSE,4.8,Beginner,180k
+302,509,feminism social justice,"University of California, Santa Cruz",COURSE,4.8,Beginner,18k
+303,442,fintech law policy,Duke University,COURSE,4.8,Beginner,9.7k
+304,531,fintech finance industry transformation regulation,The Hong Kong University of Science and Technology,SPECIALIZATION,4.6,Beginner,13k
+305,453,fintech foundations payments regulations,University of Pennsylvania,COURSE,4.7,Beginner,12k
+306,16,finance quantitative modeling analysts,University of Pennsylvania,SPECIALIZATION,4.5,Beginner,260k
+307,257,finance non finance professionals,Rice University,COURSE,4.8,Beginner,69k
+308,778,finance non financial managers,Emory University,COURSE,4.4,Intermediate,12k
+309,85,financial accounting fundamentals,University of Virginia,COURSE,4.8,Beginner,65k
+310,396,financial acumen non financial managers,University of Pennsylvania,COURSE,4.5,Beginner,10k
+311,158,financial engineering risk management part,Columbia University,COURSE,4.6,Mixed,100k
+312,149,financial management,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.7,Intermediate,76k
+313,14,financial markets,Yale University,COURSE,4.8,Beginner,470k
+314,259,financial markets investment strategy,Indian School of Business,SPECIALIZATION,4.5,Beginner,60k
+315,682,financial reporting,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.8,Intermediate,12k
+316,356,financial technology fintech innovations,University of Michigan,SPECIALIZATION,4.7,Beginner,6.5k
+317,382,financing investing infrastructure,Università Bocconi,COURSE,4.8,Mixed,24k
+318,366,finanzas corporativas,Universidad Nacional Autónoma de México,SPECIALIZATION,4.6,Intermediate,30k
+319,552,finanzas personales,Universidad Nacional Autónoma de México,COURSE,4.8,Mixed,310k
+320,109,finding purpose meaning life living matters,University of Michigan,COURSE,4.7,Beginner,36k
+321,66,fintech foundations applications financial technology,University of Pennsylvania,SPECIALIZATION,4.6,Beginner,20k
+322,113,first step korean,Yonsei University,COURSE,4.9,Beginner,400k
+323,102,food beverage management,Università Bocconi,COURSE,4.8,Mixed,57k
+324,174,forensic accounting fraud examination,West Virginia University,COURSE,4.7,Mixed,42k
+325,851,formulación evaluación de proyectos complejos,Universidad de los Andes,COURSE,4.9,Intermediate,4.4k
+326,337,foundational finance strategic decision making,University of Michigan,SPECIALIZATION,4.8,Beginner,14k
+327,721,foundations business strategy,University of Virginia,COURSE,4.8,Beginner,63k
+328,775,foundations everyday leadership,University of Illinois at Urbana-Champaign,COURSE,4.8,Mixed,62k
+329,313,foundations global health,Johns Hopkins University,SPECIALIZATION,4.7,Beginner,31k
+330,209,foundations management,IESE Business School,SPECIALIZATION,4.8,Beginner,64k
+331,569,foundations marketing analytics,Emory University,SPECIALIZATION,4.2,Intermediate,27k
+332,32,foundations positive psychology,University of Pennsylvania,SPECIALIZATION,4.8,Beginner,89k
+333,521,foundations public health practice,Imperial College London,SPECIALIZATION,4.8,Beginner,3.2k
+334,203,data insights google cloud platform,Google Cloud,SPECIALIZATION,4.6,Beginner,26k
+335,698,big bang dark energy,The University of Tokyo,COURSE,4.8,Beginner,52k
+336,863,front end web development react,The Hong Kong University of Science and Technology,COURSE,4.7,Intermediate,45k
+337,501,front end web ui frameworks tools bootstrap 4,The Hong Kong University of Science and Technology,COURSE,4.8,Intermediate,89k
+338,108,full stack web multiplatform mobile app development,The Hong Kong University of Science and Technology,SPECIALIZATION,4.7,Intermediate,150k
+339,89,full stack web development react,The Hong Kong University of Science and Technology,SPECIALIZATION,4.7,Intermediate,140k
+340,790,functional programming principles scala,École Polytechnique Fédérale de Lausanne,COURSE,4.8,Intermediate,170k
+341,150,functional programming scala,École Polytechnique Fédérale de Lausanne,SPECIALIZATION,4.7,Intermediate,220k
+342,441,fundamental neuroscience neuroimaging,Johns Hopkins University,COURSE,4.6,Beginner,30k
+343,295,fundamentals accounting,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.6,Beginner,39k
+344,164,fundamentals computing,Rice University,SPECIALIZATION,4.8,Beginner,200k
+345,581,fundamentals engineering exam review,Georgia Institute of Technology,COURSE,4.7,Mixed,49k
+346,425,fundamentals gis,"University of California, Davis",COURSE,4.8,Beginner,86k
+347,162,fundamentals graphic design,California Institute of the Arts,COURSE,4.8,Beginner,290k
+348,130,fundamentals immunology,Rice University,SPECIALIZATION,4.7,Intermediate,20k
+349,415,fundamentals immunology innate immunity b cell function,Rice University,COURSE,4.7,Intermediate,18k
+350,633,fundamentals music theory,The University of Edinburgh,COURSE,4.6,Beginner,180k
+351,77,fundamentals project planning management,University of Virginia,COURSE,4.7,Beginner,120k
+352,165,fundamentals quantitative modeling,University of Pennsylvania,COURSE,4.6,Mixed,110k
+353,475,fundamentals reinforcement learning,University of Alberta,COURSE,4.8,Intermediate,22k
+354,520,fundamentals visualization tableau,"University of California, Davis",COURSE,4.5,Beginner,81k
+355,742,fundamentos empresariales,University of Pennsylvania,SPECIALIZATION,4.6,Beginner,25k
+356,857,fundamentos estratégicos empresariales,Universidad Nacional Autónoma de México,SPECIALIZATION,4.6,Beginner,56k
+357,724,fundamentos de excel para negocios,Universidad Austral,COURSE,4.7,Beginner,150k
+358,388,fundamentos de finanzas empresariales,Universidad de los Andes,COURSE,4.8,Beginner,110k
+359,705,fundamentos de la escritura,Tecnológico de Monterrey,COURSE,4.6,Beginner,47k
+360,370,fundraising development,"University of California, Davis",SPECIALIZATION,4.6,Beginner,4.9k
+361,145,futures thinking,Institute for the Future,SPECIALIZATION,4.8,Beginner,9.4k
+362,115,g suite administration,Google Cloud,SPECIALIZATION,4.7,Beginner,10k
+363,286,gis mapping spatial analysis,University of Toronto,SPECIALIZATION,4.8,Beginner,140k
+364,206,game design development,Michigan State University,SPECIALIZATION,4.7,Intermediate,100k
+365,141,game theory,Stanford University,COURSE,4.6,Beginner,260k
+366,268,gamification,University of Pennsylvania,COURSE,4.8,Mixed,110k
+367,802,gender sexuality diversity inclusion workplace,University of Pittsburgh,COURSE,4.7,Beginner,14k
+368,76,genomic data science,Johns Hopkins University,SPECIALIZATION,4.4,Intermediate,80k
+369,79,geographic information systems gis,"University of California, Davis",SPECIALIZATION,4.8,Beginner,97k
+370,694,geopolitics europe,Sciences Po,COURSE,4.3,Mixed,19k
+371,567,geopolítica gobernanza global riesgos oportunidades,ESADE Business and Law School,COURSE,4.8,Mixed,34k
+372,650,gestión de organizaciones efectivas,Pontificia Universidad Católica de Chile,COURSE,4.7,Mixed,47k
+373,540,get interactive practical teaching technology,Bloomsbury Learning Exchange,COURSE,4.7,Beginner,14k
+374,681,getting started music theory,Michigan State University,COURSE,4.5,Beginner,59k
+375,568,getting started aws machine learning,Amazon Web Services,COURSE,4.5,Intermediate,73k
+376,734,getting started go,"University of California, Irvine",COURSE,4.6,Intermediate,59k
+377,422,getting started google kubernetes engine,Google Cloud,COURSE,4.5,Intermediate,75k
+378,411,getting started google sheets,Google Cloud,COURSE,4.6,Beginner,18k
+379,538,getting started sas programming,SAS,COURSE,4.9,Beginner,22k
+380,192,global diplomacy diplomacy modern world,SOAS University of London,COURSE,4.6,Mixed,79k
+381,400,global diplomacy united nations world,SOAS University of London,COURSE,4.7,Beginner,29k
+382,643,global energy climate policy,SOAS University of London,COURSE,4.5,Beginner,10k
+383,578,global environmental management,Technical University of Denmark (DTU),COURSE,4.6,Intermediate,22k
+384,835,global financial markets instruments,Rice University,COURSE,4.6,Mixed,37k
+385,761,global financing solutions edhec société générale,EDHEC Business School,COURSE,4.6,Intermediate,3.6k
+386,740,global trends business society,University of Pennsylvania,COURSE,4.8,Mixed,7.6k
+387,717,globalization economic growth stability,IE Business School,SPECIALIZATION,4.8,Intermediate,44k
+388,355,good words writing editing,University of Michigan,SPECIALIZATION,4.6,Beginner,3.8k
+389,227,google cloud platform big data machine learning fundamentals,Google Cloud,COURSE,4.6,Intermediate,120k
+390,849,google cloud platform fundamentals aws professionals,Google Cloud,COURSE,4.7,Intermediate,36k
+391,25,google automation python,Google,PROFESSIONAL CERTIFICATE,4.7,Beginner,93k
+392,4,google support,Google,PROFESSIONAL CERTIFICATE,4.8,Beginner,350k
+393,385,grammar punctuation,"University of California, Irvine",COURSE,4.7,Mixed,430k
+394,513,graphic design elements non designers,University of Colorado Boulder,SPECIALIZATION,4.7,Beginner,10k
+395,287,greek roman mythology,University of Pennsylvania,COURSE,4.8,Mixed,260k
+396,369,greening economy sustainable cities,Lund University,COURSE,4.6,Beginner,56k
+397,757,guitar beginners,Berklee College of Music,COURSE,4.8,Mixed,210k
+398,710,gut check exploring microbiome,University of California San Diego,COURSE,4.7,Mixed,62k
+399,329,html css javascript web developers,Johns Hopkins University,COURSE,4.8,Mixed,240k
+400,231,habilidades gerenciales,Universidad Nacional Autónoma de México,SPECIALIZATION,4.7,Beginner,43k
+401,785,hacia una práctica constructivista en el aula,Pontificia Universidad Católica de Chile,COURSE,4.8,Mixed,62k
+402,803,hardware description languages fpga design,University of Colorado Boulder,COURSE,4.2,Intermediate,7.4k
+403,429,healing arts,University of Florida,COURSE,4.6,Mixed,39k
+404,244,health informatics,Johns Hopkins University,SPECIALIZATION,4.5,Beginner,8.1k
+405,739,health information literacy data analytics,"University of California, Davis",SPECIALIZATION,4.5,Intermediate,5.4k
+406,373,healthcare law,University of Pennsylvania,SPECIALIZATION,4.7,Intermediate,1.7k
+407,423,healthcare marketplace,University of Minnesota,SPECIALIZATION,4.4,Beginner,36k
+408,596,healthcare organization operations,Rutgers the State University of New Jersey,SPECIALIZATION,4.6,Beginner,5.5k
+409,845,high performance collaboration leadership teamwork negotiation,Northwestern University,COURSE,4.8,Mixed,46k
+410,700,homeland security cybersecurity,University of Colorado System,SPECIALIZATION,4.7,Beginner,5.5k
+411,177,hotel management distribution revenue demand management,ESSEC Business School,SPECIALIZATION,4.6,Beginner,28k
+412,554,things work introduction physics,University of Virginia,COURSE,4.8,Intermediate,170k
+413,767,create website weekend project centered course,The State University of New York,COURSE,3.3,Mixed,140k
+414,609,start business,Michigan State University,SPECIALIZATION,4.1,Beginner,34k
+415,52,human resource management hr people managers,University of Minnesota,SPECIALIZATION,4.7,Beginner,98k
+416,34,ibm ai engineering,IBM,PROFESSIONAL CERTIFICATE,4.6,Intermediate,140k
+417,571,ibm ai enterprise workflow,IBM,SPECIALIZATION,4.4,Advanced,3.5k
+418,12,ibm applied ai,IBM,PROFESSIONAL CERTIFICATE,4.6,Beginner,220k
+419,408,ibm customer engagement specialist professional certificate,IBM,COURSE,4.8,Beginner,3.3k
+420,0,ibm data science,IBM,PROFESSIONAL CERTIFICATE,4.6,Beginner,480k
+421,98,fundamentals cybersecurity,IBM,SPECIALIZATION,4.5,Beginner,35k
+422,476,security defense digital dark arts,Google,COURSE,4.8,Beginner,62k
+423,856,identifying monitoring analyzing risk incident response recovery,(ISC)²,COURSE,4.9,Beginner,1.7k
+424,562,implementación del marketing mix,IE Business School,SPECIALIZATION,4.7,Beginner,23k
+425,640,implementing rpa cognitive automation analytics,Automation Anywhere,SPECIALIZATION,4.6,Beginner,2.2k
+426,36,improve english communication skills,Georgia Institute of Technology,SPECIALIZATION,4.7,Beginner,610k
+427,123,improving deep neural networks hyperparameter tuning regularization optimization,deeplearning.ai,COURSE,4.9,Beginner,270k
+428,748,improving leadership governance nonprofit organizations,Luther College at the University of Regina,SPECIALIZATION,4.4,Beginner,18k
+429,318,studio postwar abstract painting,The Museum of Modern Art,COURSE,4.9,Beginner,79k
+430,110,indigenous canada,University of Alberta,COURSE,4.8,Mixed,51k
+431,572,industrial iot google cloud platform,Google Cloud,COURSE,4.5,Beginner,34k
+432,401,infectious disease modelling,Imperial College London,SPECIALIZATION,5.0,Intermediate,1.6k
+433,805,influencer marketing strategy,Rutgers the State University of New Jersey,COURSE,4.4,Intermediate,12k
+434,224,influencing storytelling change management governance,Macquarie University,SPECIALIZATION,4.8,Beginner,22k
+435,549,information security context introduction,"Royal Holloway, University of London",COURSE,4.6,Beginner,32k
+436,537,information visualization,New York University,SPECIALIZATION,4.6,Beginner,10k
+437,485,information systems,University of Minnesota,SPECIALIZATION,4.7,Beginner,16k
+438,169,initiating planning projects,"University of California, Irvine",COURSE,4.7,Mixed,180k
+439,365,innovation management,Erasmus University Rotterdam,COURSE,4.6,Beginner,40k
+440,747,innovation design think make break repeat,The University of Sydney,COURSE,4.8,Beginner,10k
+441,673,innovation creativity entrepreneurship,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.8,Beginner,25k
+442,219,inspirational leadership leading sense,HEC Paris,SPECIALIZATION,4.5,Beginner,72k
+443,184,inspired leadership,Case Western Reserve University,SPECIALIZATION,4.7,Intermediate,97k
+444,443,inspiring motivating individuals,University of Michigan,COURSE,4.8,Mixed,85k
+445,345,instructional design foundations applications,University of Illinois at Urbana-Champaign,COURSE,4.2,Mixed,12k
+446,837,instructional methods health professions education,University of Michigan,COURSE,4.6,Intermediate,9.7k
+447,171,integrative health medicine,University of Minnesota,SPECIALIZATION,4.8,Beginner,14k
+448,120,intellectual property law,University of Pennsylvania,SPECIALIZATION,4.8,Intermediate,8.7k
+449,128,interaction design,University of California San Diego,SPECIALIZATION,4.5,Intermediate,150k
+450,762,intercultural management,ESCP Business School,COURSE,4.6,Beginner,6.5k
+451,451,international business essentials,University of London,SPECIALIZATION,4.5,Intermediate,22k
+452,701,international cyber conflicts,The State University of New York,COURSE,4.4,Mixed,25k
+453,404,international humanitarian law theory practice,Kalshoven-Gieskes Forum,COURSE,4.8,Beginner,22k
+454,579,international law action guide international courts tribunals hague,Universiteit Leiden,COURSE,4.8,Mixed,36k
+455,280,international law action arbitration international disputes,Universiteit Leiden,COURSE,4.8,Mixed,19k
+456,228,international leadership organizational behavior,Università Bocconi,COURSE,4.8,Mixed,41k
+457,615,international marketing cross industry growth,Yonsei University,SPECIALIZATION,4.6,Beginner,26k
+458,346,international organizations management,University of Geneva,COURSE,4.8,Beginner,20k
+459,447,international security management,Erasmus University Rotterdam,COURSE,4.5,Beginner,2.2k
+460,193,international women health human rights,Stanford University,COURSE,4.9,Beginner,35k
+461,593,international migrations global issue,Sciences Po,COURSE,4.6,Beginner,11k
+462,667,internet connection get online,Cisco,COURSE,4.7,Beginner,36k
+463,834,internet giants law economics media platforms,The University of Chicago,COURSE,4.8,Mixed,38k
+464,582,interviewing resume writing english,"University of Maryland, College Park",SPECIALIZATION,4.6,Intermediate,66k
+465,495,introducción data science programación estadística con r,Universidad Nacional Autónoma de México,COURSE,4.7,Beginner,140k
+466,327,introducción la programación en python aprendiendo programar con python,Pontificia Universidad Católica de Chile,COURSE,4.4,Beginner,100k
+467,844,introduction aux droits de l homme,University of Geneva,COURSE,4.8,Mixed,46k
+468,830,introduction ableton live,Berklee College of Music,COURSE,4.8,Mixed,60k
+469,427,introduction artificial intelligence ai,IBM,COURSE,4.7,Beginner,44k
+470,862,introduction big data,University of California San Diego,COURSE,4.6,Mixed,160k
+471,608,introduction blockchain technologies,INSEAD,COURSE,4.7,Beginner,16k
+472,620,introduction breast cancer,Yale University,COURSE,4.9,Mixed,27k
+473,713,introduction business analytics communicating data,University of Illinois at Urbana-Champaign,COURSE,4.7,Intermediate,14k
+474,664,introduction css3,University of Michigan,COURSE,4.8,Mixed,84k
+475,412,introduction calculus,The University of Sydney,COURSE,4.8,Intermediate,53k
+476,879,introduction chemistry reactions ratios,Duke University,COURSE,4.8,Beginner,46k
+477,421,introduction classical music,Yale University,COURSE,4.9,Mixed,150k
+478,594,introduction cloud computing,IBM,COURSE,4.6,Beginner,2.6k
+479,780,introduction computer programming,"Goldsmiths, University of London",COURSE,4.3,Beginner,20k
+480,254,introduction computer science programming,"Goldsmiths, University of London",SPECIALIZATION,4.3,Beginner,32k
+481,336,introduction corporate finance,University of Pennsylvania,COURSE,4.6,Mixed,130k
+482,723,introduction cyber attacks,New York University,COURSE,4.7,Beginner,27k
+483,183,introduction cyber security,New York University,SPECIALIZATION,4.7,Beginner,32k
+484,469,introduction cybersecurity tools cyber attacks,IBM,COURSE,4.5,Beginner,30k
+485,548,introduction data analysis using excel,Rice University,COURSE,4.7,Mixed,99k
+486,1,introduction data science,IBM,SPECIALIZATION,4.6,Beginner,310k
+487,187,introduction data science python,University of Michigan,COURSE,4.5,Intermediate,390k
+488,253,introduction dental medicine,University of Pennsylvania,COURSE,4.8,Beginner,25k
+489,196,introduction discrete mathematics computer science,National Research University Higher School of Economics,SPECIALIZATION,4.4,Beginner,75k
+490,745,introduction electronics,Georgia Institute of Technology,COURSE,4.7,Mixed,110k
+491,649,introduction embedded systems software development environments,University of Colorado Boulder,COURSE,4.5,Intermediate,41k
+492,628,introduction engineering mechanics,Georgia Institute of Technology,COURSE,4.7,Mixed,150k
+493,511,introduction environmental law policy,The University of North Carolina at Chapel Hill,COURSE,4.8,Mixed,34k
+494,204,introduction financial accounting,University of Pennsylvania,COURSE,4.7,Mixed,200k
+495,377,introduction forensic science,"Nanyang Technological University, Singapore",COURSE,4.9,Mixed,47k
+496,850,introduction game development,Michigan State University,COURSE,4.8,Mixed,79k
+497,499,introduction genetics evolution,Duke University,COURSE,4.8,Mixed,74k
+498,878,introduction genomic technologies,Johns Hopkins University,COURSE,4.6,Mixed,42k
+499,307,introduction html5,University of Michigan,COURSE,4.7,Mixed,220k
+500,774,introduction imagemaking,California Institute of the Arts,COURSE,4.5,Beginner,54k
+501,689,introduction intellectual property,University of Pennsylvania,COURSE,4.8,Beginner,6k
+502,417,introduction international criminal law,Case Western Reserve University,COURSE,4.8,Mixed,82k
+503,136,introduction marketing,University of Pennsylvania,COURSE,4.8,Mixed,220k
+504,340,introduction mathematical thinking,Stanford University,COURSE,4.8,Intermediate,270k
+505,533,introduction operations management,University of Pennsylvania,COURSE,4.5,Mixed,87k
+506,542,introduction personal branding,University of Virginia,COURSE,4.4,Beginner,140k
+507,235,introduction philosophy,The University of Edinburgh,COURSE,4.6,Mixed,370k
+508,617,introduction portfolio construction analysis python,EDHEC Business School,COURSE,4.8,Mixed,11k
+509,473,introduction probability data,Duke University,COURSE,4.7,Beginner,160k
+510,190,introduction programming c,Duke University,SPECIALIZATION,4.7,Beginner,82k
+511,308,introduction programming matlab,Vanderbilt University,COURSE,4.8,Beginner,270k
+512,29,introduction psychology,Yale University,COURSE,4.9,Beginner,270k
+513,293,introduction scripting python,Rice University,SPECIALIZATION,4.7,Beginner,49k
+514,729,introduction self driving cars,University of Toronto,COURSE,4.8,Advanced,39k
+515,339,introduction spreadsheets models,University of Pennsylvania,COURSE,4.2,Mixed,76k
+516,766,introduction statistics data analysis public health,Imperial College London,COURSE,4.7,Beginner,12k
+517,312,introduction sustainability,University of Illinois at Urbana-Champaign,COURSE,4.8,Mixed,69k
+518,250,introduction systematic review meta analysis,Johns Hopkins University,COURSE,4.8,Mixed,67k
+519,758,introduction systems engineering,UNSW Sydney (The University of New South Wales),COURSE,4.7,Mixed,33k
+520,230,introduction tensorflow artificial intelligence machine learning deep learning,deeplearning.ai,COURSE,4.7,Intermediate,150k
+521,735,introduction thermodynamics transferring energy,University of Michigan,COURSE,4.8,Beginner,4.1k
+522,659,introduction trading machine learning gcp,New York Institute of Finance,COURSE,4.0,Intermediate,13k
+523,557,introduction typography,California Institute of the Arts,COURSE,4.8,Beginner,72k
+524,428,introduction user experience design,Georgia Institute of Technology,COURSE,4.5,Beginner,87k
+525,744,introduction user experience principles processes,University of Michigan,COURSE,4.8,Beginner,16k
+526,625,introduction web development,"University of California, Davis",COURSE,4.7,Beginner,76k
+527,194,introduction biology cancer,Johns Hopkins University,COURSE,4.8,Beginner,110k
+528,270,introductory human physiology,Duke University,COURSE,4.7,Mixed,270k
+529,741,introdução aos princípios e práticas da gestão de projetos,Universidade de São Paulo,SPECIALIZATION,4.9,Beginner,4.5k
+530,866,introdução à ciência da computação com python parte 1,Universidade de São Paulo,COURSE,4.9,Beginner,120k
+531,80,investment management,University of Geneva,SPECIALIZATION,4.7,Beginner,99k
+532,147,investment management python machine learning,EDHEC Business School,SPECIALIZATION,4.6,Beginner,14k
+533,195,investment portfolio management,Rice University,SPECIALIZATION,4.5,Beginner,49k
+534,639,japanese beginners 1,Saint Petersburg State University,COURSE,4.6,Beginner,4.4k
+535,45,java programming software engineering fundamentals,Duke University,SPECIALIZATION,4.6,Beginner,380k
+536,518,java programming solving problems software,Duke University,COURSE,4.6,Beginner,160k
+537,586,julia scientific programming,University of Cape Town,COURSE,4.5,Beginner,22k
+538,546,kotlin java developers,JetBrains,COURSE,4.7,Intermediate,37k
+539,516,l excellence opérationnelle en pratique,ESSEC Business School,COURSE,4.7,Beginner,8k
+540,750,l impact investing la finance qui change le monde,ESSEC Business School,SPECIALIZATION,4.6,Beginner,6.3k
+541,654,leadership development engineers,Rice University,SPECIALIZATION,4.7,Beginner,17k
+542,577,leadership 21st century organizations,Copenhagen Business School,COURSE,4.7,Mixed,34k
+543,656,leading healthcare quality safety,The George Washington University,COURSE,4.8,Beginner,16k
+544,61,leading people teams,University of Michigan,SPECIALIZATION,4.7,Beginner,220k
+545,755,leading equity diversity inclusion higher education,University of Michigan,COURSE,4.7,Intermediate,5.9k
+546,433,leading human resource management leadership,Macquarie University,SPECIALIZATION,4.8,Intermediate,16k
+547,155,learn chinese hsk test preparation,Peking University,SPECIALIZATION,4.8,Beginner,43k
+548,786,learn english,Tsinghua University,SPECIALIZATION,4.3,Beginner,22k
+549,394,learn english advanced academic speaking listening,"University of California, Irvine",SPECIALIZATION,4.5,Intermediate,78k
+550,271,learn english advanced grammar punctuation,"University of California, Irvine",SPECIALIZATION,4.8,Advanced,52k
+551,172,learn english intermediate grammar,"University of California, Irvine",SPECIALIZATION,4.7,Intermediate,120k
+552,360,learn mandarin chinese,Shanghai Jiao Tong University,SPECIALIZATION,4.8,Beginner,39k
+553,74,learn sql basics data science,"University of California, Davis",SPECIALIZATION,4.6,Beginner,160k
+554,112,learn spanish basic spanish vocabulary,"University of California, Davis",SPECIALIZATION,4.6,Beginner,80k
+555,260,learn program fundamentals,University of Toronto,COURSE,4.8,Beginner,180k
+556,311,learn speak korean 1,Yonsei University,COURSE,4.9,Beginner,120k
+557,90,learning teach online,UNSW Sydney (The University of New South Wales),COURSE,4.7,Beginner,68k
+558,839,legal tech startups,IE Business School,COURSE,4.5,Intermediate,7.2k
+559,541,les fondamentaux de la négociation,ESSEC Business School,COURSE,4.7,Beginner,10k
+560,699,liderazgo efectivo para el siglo xxi,Universidad de los Andes,SPECIALIZATION,4.8,Intermediate,23k
+561,843,linear circuits 1 dc analysis,Georgia Institute of Technology,COURSE,4.6,Mixed,29k
+562,769,love force social justice,Stanford University,COURSE,4.7,Beginner,14k
+563,181,machine learning,University of Washington,SPECIALIZATION,4.6,Intermediate,290k
+564,6,machine learning,Stanford University,COURSE,4.9,Mixed,3.2m
+565,831,machine learning foundations case study approach,University of Washington,COURSE,4.6,Mixed,240k
+566,352,machine learning reinforcement learning finance,New York University,SPECIALIZATION,3.7,Intermediate,29k
+567,585,machine learning,University of London,COURSE,4.6,Beginner,19k
+568,264,machine learning business professionals,Google Cloud,COURSE,4.6,Intermediate,58k
+569,178,machine learning trading,Google Cloud,SPECIALIZATION,3.9,Intermediate,15k
+570,321,machine learning python,IBM,COURSE,4.7,Intermediate,120k
+571,125,machine learning tensorflow google cloud platform,Google Cloud,SPECIALIZATION,4.5,Intermediate,72k
+572,791,magic middle ages,Universitat de Barcelona,COURSE,4.6,Beginner,78k
+573,435,making architecture,IE School of Architecture & Design,COURSE,4.7,Beginner,43k
+574,73,management fashion luxury companies,Università Bocconi,COURSE,4.7,Mixed,120k
+575,467,managerial accounting fundamentals,University of Virginia,COURSE,4.9,Beginner,11k
+576,409,managerial economics business analysis,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.7,Beginner,55k
+577,91,managing innovation design thinking,HEC Paris,SPECIALIZATION,4.7,Beginner,23k
+578,556,managing project risks changes,"University of California, Irvine",COURSE,4.7,Mixed,71k
+579,558,managing social human capital,University of Pennsylvania,COURSE,4.5,Beginner,27k
+580,796,managing health role physical therapy exercise,University of Toronto,COURSE,4.6,Beginner,47k
+581,380,market research,"University of California, Davis",SPECIALIZATION,4.5,Beginner,22k
+582,241,marketing digital,Universidade de São Paulo,COURSE,4.8,Beginner,81k
+583,325,marketing digital,Universidad Austral,SPECIALIZATION,4.7,Beginner,39k
+584,449,marketing gerencial,Universidad de Chile,COURSE,4.7,Intermediate,49k
+585,140,marketing mix implementation,IE Business School,SPECIALIZATION,4.6,Beginner,93k
+586,211,marketing strategy,IE Business School,SPECIALIZATION,4.4,Beginner,57k
+587,669,marketing verde,Universidad de los Andes,COURSE,4.8,Mixed,58k
+588,367,marketing con redes sociales,Tecnológico de Monterrey,SPECIALIZATION,4.4,Intermediate,60k
+589,310,marketing digital world,University of Illinois at Urbana-Champaign,COURSE,4.7,Beginner,310k
+590,550,mastering data analysis excel,Duke University,COURSE,4.2,Mixed,280k
+591,575,mastering final cut pro,LearnQuest,COURSE,4.6,Beginner,8.4k
+592,563,mastering software development r,Johns Hopkins University,SPECIALIZATION,4.3,Beginner,52k
+593,840,materials science 10 things every engineer know,"University of California, Davis",COURSE,4.7,Mixed,48k
+594,480,mathematics data science,National Research University Higher School of Economics,SPECIALIZATION,4.5,Beginner,12k
+595,55,mathematics machine learning,Imperial College London,SPECIALIZATION,4.6,Beginner,150k
+596,223,mathematics machine learning linear algebra,Imperial College London,COURSE,4.7,Beginner,140k
+597,528,mathematics machine learning multivariate calculus,Imperial College London,COURSE,4.7,Beginner,51k
+598,873,mathematics machine learning pca,Imperial College London,COURSE,4.0,Intermediate,33k
+599,335,medical cannabis health effects thc cbd,University of Colorado Boulder,SPECIALIZATION,4.8,Beginner,4.8k
+600,214,medical neuroscience,Duke University,COURSE,4.9,Advanced,170k
+601,258,memoir personal essay write,Wesleyan University,SPECIALIZATION,4.3,Beginner,13k
+602,87,methods statistics social sciences,University of Amsterdam,SPECIALIZATION,4.6,Beginner,260k
+603,489,microeconomics principles,University of Illinois at Urbana-Champaign,COURSE,4.9,Beginner,73k
+604,464,microeconomics power markets,University of Pennsylvania,COURSE,4.7,Mixed,34k
+605,470,mindshift break obstacles learning discover hidden potential,McMaster University,COURSE,4.8,Beginner,230k
+606,517,miracles human language introduction linguistics,Universiteit Leiden,COURSE,4.7,Beginner,120k
+607,505,model thinking,University of Michigan,COURSE,4.8,Mixed,130k
+608,706,modeling risk realities,University of Pennsylvania,COURSE,4.6,Mixed,36k
+609,101,modern art ideas,The Museum of Modern Art,COURSE,4.7,Beginner,310k
+610,296,modern big data analysis sql,Cloudera,SPECIALIZATION,4.8,Beginner,14k
+611,333,modern robotics mechanics planning control,Northwestern University,SPECIALIZATION,4.7,Intermediate,21k
+612,523,modernizing data lakes data warehouses gcp,Google Cloud,COURSE,4.7,Intermediate,9.1k
+613,176,moral foundations politics,Yale University,COURSE,4.8,Mixed,100k
+614,481,introduction financial accounting,University of Pennsylvania,COURSE,4.9,Mixed,40k
+615,652,mountains 101,University of Alberta,COURSE,4.9,Mixed,44k
+616,597,municipal solid waste management developing countries,École Polytechnique Fédérale de Lausanne,COURSE,4.8,Intermediate,59k
+617,188,music business,Berklee College of Music,SPECIALIZATION,4.8,Beginner,42k
+618,784,music business foundations,Berklee College of Music,COURSE,4.9,Mixed,34k
+619,94,music production,Berklee College of Music,SPECIALIZATION,4.8,Beginner,70k
+620,685,nanotechnology maker course,Duke University,COURSE,4.8,Mixed,21k
+621,431,natural language processing tensorflow,deeplearning.ai,COURSE,4.6,Intermediate,40k
+622,341,negociación exitosa estrategias habilidades esenciales en español,University of Michigan,COURSE,4.8,Mixed,95k
+623,226,negotiation mediation conflict resolution,ESSEC Business School,SPECIALIZATION,4.7,Beginner,22k
+624,842,networking security architecture vmware nsx,VMware,COURSE,4.8,Intermediate,17k
+625,20,networking google cloud,Google Cloud,SPECIALIZATION,4.7,Intermediate,290k
+626,62,neural networks deep learning,deeplearning.ai,COURSE,4.9,Intermediate,630k
+627,471,neurolinguistics,Saint Petersburg State University,COURSE,4.7,Mixed,41k
+628,795,new approaches countering terror countering violent extremism,"University of Maryland, College Park",COURSE,4.7,Beginner,12k
+629,343,newborn baby care,University of Colorado System,SPECIALIZATION,4.8,Beginner,5.3k
+630,252,nutrición obesidad control de sobrepeso,Universidad Nacional Autónoma de México,COURSE,4.8,Beginner,100k
+631,535,nutrition lifestyle pregnancy,Ludwig-Maximilians-Universität München (LMU),COURSE,4.8,Intermediate,35k
+632,255,object oriented java programming data structures beyond,University of California San Diego,SPECIALIZATION,4.7,Intermediate,250k
+633,86,object oriented programming java,Duke University,SPECIALIZATION,4.6,Beginner,330k
+634,510,object oriented data structures c,University of Illinois at Urbana-Champaign,COURSE,4.7,Intermediate,21k
+635,887,object oriented design,University of Alberta,COURSE,4.7,Intermediate,33k
+636,323,oil gas industry operations markets,Duke University,COURSE,4.8,Mixed,57k
+637,416,open source software development linux git,The Linux Foundation,SPECIALIZATION,4.4,Beginner,13k
+638,316,operating systems becoming power user,Google,COURSE,4.6,Beginner,76k
+639,398,operations analytics,University of Pennsylvania,COURSE,4.7,Mixed,80k
+640,472,optical engineering,University of Colorado Boulder,SPECIALIZATION,4.2,Advanced,6.2k
+641,116,organizational leadership,Northwestern University,SPECIALIZATION,4.7,Intermediate,92k
+642,867,osteoarchaeology truth bones,Universiteit Leiden,COURSE,4.7,Beginner,22k
+643,765,palliative care hospice anymore,University of Colorado System,SPECIALIZATION,4.8,Beginner,3.2k
+644,526,palo alto networks cybersecurity,Palo Alto Networks,SPECIALIZATION,4.6,Beginner,9.1k
+645,445,parallel concurrent distributed programming java,Rice University,SPECIALIZATION,4.5,Intermediate,30k
+646,872,particle physics introduction,University of Geneva,COURSE,4.5,Mixed,42k
+647,309,patient safety,Johns Hopkins University,SPECIALIZATION,4.8,Beginner,8.8k
+648,810,patrocinio deportivo,Universitat Autònoma de Barcelona,COURSE,4.6,Beginner,12k
+649,362,people analytics,University of Pennsylvania,COURSE,4.5,Mixed,84k
+650,665,perfect tenses modals,"University of California, Irvine",COURSE,4.7,Intermediate,79k
+651,668,periodismo digital combate las fake news,Universidad Nacional Autónoma de México,COURSE,4.9,Beginner,8.9k
+652,105,photography basics beyond smartphone dslr,Michigan State University,SPECIALIZATION,4.7,Beginner,160k
+653,503,plant bioinformatic methods,University of Toronto,SPECIALIZATION,4.7,Beginner,83k
+654,477,politics economics international energy,Sciences Po,COURSE,4.7,Beginner,34k
+655,216,positive psychiatry mental health,The University of Sydney,COURSE,4.8,Mixed,72k
+656,291,positive psychology,The University of North Carolina at Chapel Hill,COURSE,4.7,Mixed,180k
+657,606,positive psychology applications interventions,University of Pennsylvania,COURSE,4.8,Beginner,23k
+658,240,positive psychology martin e p seligman visionary science,University of Pennsylvania,COURSE,4.8,Beginner,50k
+659,646,positive psychology resilience skills,University of Pennsylvania,COURSE,4.6,Beginner,40k
+660,348,power electronics,University of Colorado Boulder,SPECIALIZATION,4.8,Intermediate,67k
+661,320,practical data science matlab,MathWorks,SPECIALIZATION,4.7,Beginner,10k
+662,692,practical time series analysis,The State University of New York,COURSE,4.6,Intermediate,39k
+663,808,preparing google cloud associate cloud engineer exam,Google Cloud,COURSE,4.7,Beginner,22k
+664,389,preparing manage human resources,University of Minnesota,COURSE,4.8,Mixed,68k
+665,299,presentation skills speechwriting slides delivery,E-Learning Development Fund,SPECIALIZATION,4.6,Beginner,47k
+666,215,pricing strategy optimization,BCG,SPECIALIZATION,4.8,Beginner,20k
+667,57,primeros auxilios psicológicos pap,Universitat Autònoma de Barcelona,COURSE,4.8,Mixed,280k
+668,114,private equity venture capital,Università Bocconi,COURSE,4.8,Mixed,79k
+669,683,probabilistic graphical models 1 representation,Stanford University,COURSE,4.7,Advanced,68k
+670,715,probability statistics p p,University of London,COURSE,4.6,Beginner,36k
+671,626,process mining data science action,Eindhoven University of Technology,COURSE,4.8,Intermediate,39k
+672,364,programming foundations javascript html css,Duke University,COURSE,4.6,Beginner,250k
+673,732,programming fundamentals,Duke University,COURSE,4.7,Beginner,19k
+674,47,programming everybody getting started python,University of Michigan,COURSE,4.8,Mixed,1.3m
+675,208,programming google go,"University of California, Irvine",SPECIALIZATION,4.6,Intermediate,18k
+676,731,project execution,"University of California, Irvine",COURSE,4.2,Beginner,70k
+677,284,project launch,"University of California, Irvine",COURSE,4.7,Beginner,190k
+678,31,project management tools career development,"University of California, Irvine",SPECIALIZATION,4.6,Beginner,440k
+679,30,project management principles practices,"University of California, Irvine",SPECIALIZATION,4.7,Beginner,230k
+680,37,psychological first aid,Johns Hopkins University,COURSE,4.8,Mixed,190k
+681,424,public policy challenges 21st century,University of Virginia,COURSE,4.6,Beginner,52k
+682,279,python basics,University of Michigan,COURSE,4.8,Beginner,110k
+683,869,python classes inheritance,University of Michigan,COURSE,4.7,Intermediate,21k
+684,111,python data structures,University of Michigan,COURSE,4.9,Mixed,420k
+685,555,python functions files dictionaries,University of Michigan,COURSE,4.8,Beginner,26k
+686,374,python statistics financial analysis,The Hong Kong University of Science and Technology,COURSE,4.4,Intermediate,41k
+687,152,python data science ai,IBM,COURSE,4.6,Beginner,170k
+688,3,python everybody,University of Michigan,SPECIALIZATION,4.8,Beginner,1.5m
+689,823,quantitative methods,University of Amsterdam,COURSE,4.7,Mixed,69k
+690,827,queering identities lgbtq sexuality gender identity,University of Colorado System,COURSE,4.9,Beginner,3k
+691,317,r programming,Johns Hopkins University,COURSE,4.6,Intermediate,480k
+692,771,ready set future introduction futures thinking,Institute for the Future,COURSE,4.8,Beginner,7.7k
+693,553,recommender systems,University of Minnesota,SPECIALIZATION,4.3,Intermediate,29k
+694,658,recruiting hiring onboarding employees,University of Minnesota,COURSE,4.7,Mixed,35k
+695,82,reinforcement learning,University of Alberta,SPECIALIZATION,4.7,Intermediate,23k
+696,532,renewable energy green building entrepreneurship,Duke University,COURSE,4.7,Beginner,24k
+697,634,reporting extra financier et stratégie rse,ESSEC Business School,COURSE,4.7,Beginner,5.2k
+698,868,requirements engineering secure software specifications,University of Colorado System,SPECIALIZATION,4.6,Beginner,7.2k
+699,876,research data management sharing,The University of Edinburgh,COURSE,4.6,Mixed,16k
+700,622,resilience children exposed trauma disaster war global perspectives,University of Minnesota,COURSE,4.8,Mixed,15k
+701,289,responsive website development design,"Goldsmiths, University of London",SPECIALIZATION,4.5,Beginner,170k
+702,414,rethinking international tax law,Universiteit Leiden,COURSE,4.9,Mixed,36k
+703,386,revisão sistemática e meta análise,Universidade Estadual de Campinas,COURSE,4.9,Intermediate,17k
+704,315,robotics,University of Pennsylvania,SPECIALIZATION,4.4,Beginner,120k
+705,632,roman architecture,Yale University,COURSE,4.9,Beginner,30k
+706,833,russian alphabet,Saint Petersburg State University,COURSE,4.7,Beginner,3.2k
+707,180,russian beginners а1 русский язык a1,Saint Petersburg State University,SPECIALIZATION,4.7,Beginner,7k
+708,331,réussir le changement,ESSEC Business School,COURSE,4.5,Mixed,33k
+709,160,sas programmer,SAS,PROFESSIONAL CERTIFICATE,4.8,Beginner,370k
+710,393,sas visual business analytics,SAS,PROFESSIONAL CERTIFICATE,4.6,Beginner,2.6k
+711,332,sql data science,"University of California, Davis",COURSE,4.6,Beginner,160k
+712,601,sales operations management,West Virginia University,SPECIALIZATION,4.4,Beginner,5.6k
+713,781,sales training high performing teams,HubSpot Academy,SPECIALIZATION,4.7,Beginner,16k
+714,763,sample based learning methods,University of Alberta,COURSE,4.8,Intermediate,6.8k
+715,860,scaling operations linking strategy execution,Northwestern University,COURSE,4.5,Mixed,12k
+716,368,school health children adolescents,University of Colorado System,SPECIALIZATION,4.8,Beginner,9.1k
+717,121,science exercise,University of Colorado Boulder,COURSE,4.8,Beginner,140k
+718,629,search engine optimization fundamentals,"University of California, Davis",COURSE,4.7,Mixed,47k
+719,836,secure coding practices,"University of California, Davis",SPECIALIZATION,4.4,Intermediate,6.4k
+720,712,security safety challenges globalized world,Universiteit Leiden,COURSE,4.7,Beginner,14k
+721,19,security google cloud platform,Google Cloud,SPECIALIZATION,4.7,Intermediate,300k
+722,154,self driving cars,University of Toronto,SPECIALIZATION,4.7,Advanced,39k
+723,285,sequence models,deeplearning.ai,COURSE,4.8,Intermediate,14k
+724,772,sexualidad mucho más que sexo,Universidad de los Andes,COURSE,4.8,Beginner,110k
+725,695,sharpened visions poetry workshop,California Institute of the Arts,COURSE,4.7,Beginner,61k
+726,304,site reliability engineering measuring managing reliability,Google Cloud,COURSE,4.5,Advanced,16k
+727,167,six sigma green belt,University System of Georgia,SPECIALIZATION,4.7,Intermediate,18k
+728,792,six sigma organization advanced,University System of Georgia,COURSE,4.7,Intermediate,15k
+729,814,sleep neurobiology medicine society,University of Michigan,COURSE,4.8,Beginner,20k
+730,660,smart cities management smart urban infrastructures,École Polytechnique Fédérale de Lausanne,COURSE,4.6,Beginner,22k
+731,817,social entrepreneurship,Copenhagen Business School,SPECIALIZATION,4.6,Beginner,13k
+732,49,social media marketing,Northwestern University,SPECIALIZATION,4.6,Beginner,130k
+733,440,social norms social change,University of Pennsylvania,COURSE,4.6,Beginner,78k
+734,574,social policy social services health practitioners,Columbia University,SPECIALIZATION,4.8,Beginner,4.2k
+735,83,social psychology,Wesleyan University,COURSE,4.7,Beginner,220k
+736,506,social economic networks models analysis,Stanford University,COURSE,4.8,Advanced,42k
+737,186,software design architecture,University of Alberta,SPECIALIZATION,4.6,Beginner,60k
+738,402,software development lifecycle,University of Minnesota,SPECIALIZATION,4.6,Intermediate,34k
+739,859,software processes agile practices,University of Alberta,COURSE,4.7,Mixed,60k
+740,64,software product management,University of Alberta,SPECIALIZATION,4.6,Beginner,110k
+741,515,solar energy basics,The State University of New York,COURSE,4.8,Beginner,17k
+742,600,songwriting writing lyrics,Berklee College of Music,COURSE,4.8,Beginner,68k
+743,363,soporte de tecnologías de la información de google,Crece con Google,PROFESSIONAL CERTIFICATE,4.9,Beginner,8.8k
+744,754,spacecraft dynamics control,University of Colorado Boulder,SPECIALIZATION,4.8,Advanced,12k
+745,504,spanish vocabulary meeting people,"University of California, Davis",COURSE,4.6,Beginner,71k
+746,334,speak english professionally person online phone,Georgia Institute of Technology,COURSE,4.6,Mixed,430k
+747,200,sports marketing,Northwestern University,COURSE,4.7,Intermediate,12k
+748,580,sports society,Duke University,COURSE,4.8,Mixed,16k
+749,68,stanford introduction food health,Stanford University,COURSE,4.7,Beginner,370k
+750,680,stanford short course breastfeeding,Stanford University,COURSE,4.7,Beginner,17k
+751,170,statistical analysis r public health,Imperial College London,SPECIALIZATION,4.7,Beginner,16k
+752,127,statistics python,University of Michigan,SPECIALIZATION,4.6,Beginner,34k
+753,84,statistics r,Duke University,SPECIALIZATION,4.7,Beginner,220k
+754,657,stories infection,Stanford University,COURSE,4.9,Intermediate,28k
+755,648,strategic business analytics,ESSEC Business School,SPECIALIZATION,4.3,Advanced,60k
+756,822,strategic business management microeconomics,"University of California, Irvine",COURSE,4.7,Beginner,9.5k
+757,93,strategic leadership management,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.7,Beginner,100k
+758,801,strategic management,Copenhagen Business School,COURSE,4.7,Mixed,58k
+759,202,strategic management innovation,Copenhagen Business School,SPECIALIZATION,4.7,Beginner,68k
+760,592,strategic sales management,Fundação Instituto de Administração,SPECIALIZATION,4.5,Intermediate,9.2k
+761,798,strategising management global competitive advantage,Macquarie University,SPECIALIZATION,4.8,Intermediate,30k
+762,749,strategy sustainability,IESE Business School,COURSE,4.6,Beginner,11k
+763,189,structuring machine learning projects,deeplearning.ai,COURSE,4.8,Beginner,220k
+764,455,success,University of Pennsylvania,COURSE,4.8,Beginner,38k
+765,40,successful negotiation essential strategies skills,University of Michigan,COURSE,4.8,Mixed,750k
+766,588,summary statistics public health,Johns Hopkins University,COURSE,4.8,Beginner,11k
+767,483,supply chain analytics,Rutgers the State University of New Jersey,COURSE,4.7,Beginner,7.9k
+768,432,supply chain finance blockchain technology,New York Institute of Finance,SPECIALIZATION,4.6,Intermediate,4.9k
+769,384,supply chain logistics,Rutgers the State University of New Jersey,COURSE,4.7,Beginner,66k
+770,50,supply chain management,Rutgers the State University of New Jersey,SPECIALIZATION,4.7,Beginner,82k
+771,760,supply chain operations,Rutgers the State University of New Jersey,COURSE,4.8,Beginner,24k
+772,306,supply chain principles,Georgia Institute of Technology,COURSE,4.6,Mixed,29k
+773,328,supporting children difficulties reading writing,UCL Institute of Education,COURSE,4.8,Mixed,50k
+774,344,survey data collection analytics,"University of Maryland, College Park",SPECIALIZATION,4.3,Beginner,45k
+775,583,sustainable tourism promoting environmental public health,University of Copenhagen,COURSE,4.6,Beginner,9.4k
+776,387,swift 5 ios application developer,LearnQuest,SPECIALIZATION,4.5,Beginner,3.9k
+777,403,system administration infrastructure services,Google,COURSE,4.7,Beginner,62k
+778,484,systems biology biotechnology,Icahn School of Medicine at Mount Sinai,SPECIALIZATION,4.4,Intermediate,48k
+779,647,systems thinking public health,Johns Hopkins University,COURSE,4.9,Mixed,33k
+780,67,tesol certificate part 1 teach english,Arizona State University,SPECIALIZATION,4.9,Beginner,100k
+781,234,tesol certificate part 2 teach english,Arizona State University,SPECIALIZATION,4.9,Beginner,62k
+782,559,teach english foundational principles,Arizona State University,COURSE,4.9,Mixed,81k
+783,807,teach english teaching language online,Arizona State University,COURSE,4.4,Intermediate,8.5k
+784,788,teaching character creating positive classrooms,Relay Graduate School of Education,COURSE,4.8,Mixed,53k
+785,466,teamwork skills communicating effectively groups,University of Colorado Boulder,COURSE,4.8,Beginner,49k
+786,41,technical support fundamentals,Google,COURSE,4.8,Beginner,280k
+787,27,tensorflow practice,deeplearning.ai,SPECIALIZATION,4.7,Intermediate,170k
+788,217,tensorflow data deployment,deeplearning.ai,SPECIALIZATION,4.5,Intermediate,12k
+789,298,terrorism counterterrorism comparing theory practice,Universiteit Leiden,COURSE,4.8,Beginner,90k
+790,460,addicted brain,Emory University,COURSE,4.6,Beginner,130k
+791,507,art music production,Berklee College of Music,COURSE,4.8,Intermediate,47k
+792,133,art sales mastering selling process,Northwestern University,SPECIALIZATION,4.7,Beginner,23k
+793,375,arts science relationships understanding human needs,University of Toronto,COURSE,4.5,Beginner,73k
+794,135,bits bytes computer networking,Google,COURSE,4.7,Beginner,130k
+795,65,business health care,University of Pennsylvania,SPECIALIZATION,4.6,Beginner,22k
+796,97,business music production,Berklee College of Music,SPECIALIZATION,4.8,Beginner,84k
+797,768,changing global order,Universiteit Leiden,COURSE,4.7,Intermediate,23k
+798,759,cycle management successful arts cultural organizations,"University of Maryland, College Park",COURSE,4.8,Beginner,11k
+799,81,diy musician,Berklee College of Music,SPECIALIZATION,4.8,Beginner,120k
+800,243,data scientist toolbox,Johns Hopkins University,COURSE,4.6,Mixed,420k
+801,864,economics health care delivery,University of Pennsylvania,COURSE,4.8,Mixed,7.2k
+802,274,global financial crisis,Yale University,COURSE,4.8,Mixed,84k
+803,587,horse course introduction basic care management,University of Florida,COURSE,4.9,Mixed,29k
+804,282,manager toolkit practical guide managing people work,"Birkbeck, University of London",COURSE,4.6,Mixed,47k
+805,357,modern world part one global history 1760 1910,University of Virginia,COURSE,4.8,Beginner,130k
+806,671,modern world part two global history since 1910,University of Virginia,COURSE,4.8,Beginner,47k
+807,576,oral cavity portal health disease,University of Pennsylvania,COURSE,4.9,Intermediate,9.4k
+808,272,power macroeconomics economic principles real world,"University of California, Irvine",COURSE,4.6,Mixed,180k
+809,534,power microeconomics economic principles real world,"University of California, Irvine",COURSE,4.7,Mixed,120k
+810,826,pronunciation american english,"University of California, Irvine",SPECIALIZATION,4.6,Beginner,1.7k
+811,818,science gastronomy,The Hong Kong University of Science and Technology,COURSE,4.6,Mixed,50k
+812,690,science stem cells,American Museum of Natural History,COURSE,4.7,Intermediate,12k
+813,696,science success researchers know know,University of Michigan,COURSE,4.8,Beginner,59k
+814,524,science training young athletes,University of Florida,COURSE,4.9,Beginner,13k
+815,2,science well,Yale University,COURSE,4.9,Mixed,2.5m
+816,118,singer songwriter,Berklee College of Music,SPECIALIZATION,4.8,Beginner,320k
+817,677,social context mental health illness,University of Toronto,COURSE,4.6,Mixed,19k
+818,138,strategy content marketing,"University of California, Davis",COURSE,4.5,Intermediate,100k
+819,361,sustainable development goals global transdisciplinary vision future,University of Copenhagen,COURSE,4.8,Beginner,26k
+820,459,teacher social emotional learning sel,University of Colorado Boulder,SPECIALIZATION,4.7,Beginner,5.2k
+821,666,technology music production,Berklee College of Music,COURSE,4.8,Beginner,28k
+822,616,truth cats dogs,The University of Edinburgh,COURSE,4.7,Mixed,33k
+823,716,hidden value lean manufacturing services,École des Ponts ParisTech,COURSE,4.7,Beginner,14k
+824,584,think understand arguments,Duke University,COURSE,4.6,Beginner,200k
+825,146,tools data science,IBM,COURSE,4.6,Beginner,120k
+826,220,trading strategies emerging markets,Indian School of Business,SPECIALIZATION,4.3,Beginner,68k
+827,529,transmedia storytelling narrative worlds emerging technologies global audiences,UNSW Sydney (The University of New South Wales),COURSE,4.8,Mixed,45k
+828,530,tricky american english pronunciation,"University of California, Irvine",COURSE,4.7,Beginner,110k
+829,438,troubles du spectre de l autisme diagnostic,University of Geneva,COURSE,4.9,Intermediate,5.4k
+830,245,u federal taxation,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.8,Intermediate,12k
+831,153,uci project management,"University of California, Irvine",PROFESSIONAL CERTIFICATE,4.6,Beginner,44k
+832,46,ui ux design,California Institute of the Arts,SPECIALIZATION,4.7,Beginner,68k
+833,595,ux design fundamentals,California Institute of the Arts,COURSE,4.8,Beginner,25k
+834,676,understanding cancer metastasis,Johns Hopkins University,COURSE,4.8,Beginner,29k
+835,353,understanding clinical research behind statistics,University of Cape Town,COURSE,4.8,Mixed,78k
+836,500,understanding einstein special theory relativity,Stanford University,COURSE,4.9,Beginner,89k
+837,173,understanding medical research facebook friend wrong,Yale University,COURSE,4.8,Beginner,24k
+838,886,understanding modern finance,American Institute of Business and Economics,SPECIALIZATION,4.4,Intermediate,11k
+839,746,understanding plants part plant knows,Tel Aviv University,COURSE,4.8,Beginner,49k
+840,261,understanding research methods,SOAS University of London,COURSE,4.5,Mixed,120k
+841,465,understanding visualizing data python,University of Michigan,COURSE,4.7,Beginner,30k
+842,249,understanding brain neurobiology everyday life,The University of Chicago,COURSE,4.9,Beginner,130k
+843,865,unity certified programmer exam preparation,Unity,SPECIALIZATION,4.5,Intermediate,6.1k
+844,618,unity xr build ar vr apps,Unity,SPECIALIZATION,4.2,Beginner,12k
+845,882,university teaching,The University of Hong Kong,COURSE,4.8,Beginner,9.5k
+846,638,unraveling cycling city,University of Amsterdam,COURSE,4.9,Intermediate,3.9k
+847,117,user experience research design,University of Michigan,SPECIALIZATION,4.8,Beginner,23k
+848,614,user interface design,University of Minnesota,SPECIALIZATION,4.6,Intermediate,43k
+849,350,using databases python,University of Michigan,COURSE,4.8,Mixed,220k
+850,199,using python access web data,University of Michigan,COURSE,4.8,Mixed,310k
+851,603,using python interact operating system,Google,COURSE,4.7,Beginner,19k
+852,262,value chain management,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.7,Intermediate,63k
+853,589,version control git,Atlassian,COURSE,4.8,Mixed,40k
+854,71,viral marketing craft contagious content,University of Pennsylvania,COURSE,4.7,Mixed,150k
+855,407,virtual reality,"Goldsmiths, University of London",SPECIALIZATION,4.7,Beginner,37k
+856,297,virtual teacher,"University of California, Irvine",SPECIALIZATION,4.3,Beginner,23k
+857,185,vital signs understanding body telling us,University of Pennsylvania,COURSE,4.8,Mixed,190k
+858,182,web applications everybody,University of Michigan,SPECIALIZATION,4.8,Intermediate,120k
+859,42,web design everybody basics web development coding,University of Michigan,SPECIALIZATION,4.7,Beginner,280k
+860,354,weight management beyond balancing calories,Emory University,COURSE,4.7,Beginner,34k
+861,144,contemporary art,The Museum of Modern Art,COURSE,4.7,Beginner,120k
+862,829,future education,UCL Institute of Education,COURSE,4.7,Mixed,35k
+863,543,compliance,University of Pennsylvania,COURSE,4.8,Mixed,6.2k
+864,88,data science,IBM,COURSE,4.7,Beginner,260k
+865,379,social,Northwestern University,COURSE,4.6,Mixed,94k
+866,232,wine tasting sensory techniques wine analysis,"University of California, Davis",COURSE,4.7,Beginner,32k
+867,787,wonders ancient egypt,University of Pennsylvania,COURSE,4.8,Intermediate,17k
+868,619,write feature length screenplay film television,Michigan State University,COURSE,4.9,Beginner,12k
+869,213,write professional emails english,Georgia Institute of Technology,COURSE,4.7,Mixed,270k
+870,684,write first novel,Michigan State University,COURSE,4.4,Beginner,18k
+871,69,writing sciences,Stanford University,COURSE,4.9,Beginner,140k
+872,359,e learning ecologies innovative approaches teaching learning digital age,University of Illinois at Urbana-Champaign,COURSE,4.5,Mixed,17k
+873,779,ios app development swift,University of Toronto,SPECIALIZATION,3.9,Intermediate,76k
+874,858,qué hacen los buenos directivos prioridades de la alta dirección,IESE Business School,COURSE,4.7,Beginner,25k
+875,191,étudier en france french intermediate course b1 b2,École Polytechnique,COURSE,4.8,Intermediate,190k
+876,607,éxito profesional,"University of California, Irvine",SPECIALIZATION,4.5,Beginner,69k
+877,492,искусство ведения бизнеса,Saint Petersburg State University,SPECIALIZATION,4.6,Beginner,14k
+878,156,искусство разработки на современном c,E-Learning Development Fund,SPECIALIZATION,4.9,Intermediate,68k
+879,722,корпоративные финансы и стоимость компании,National Research University Higher School of Economics,SPECIALIZATION,4.5,Beginner,16k
+880,811,математика и python для анализа данных,E-Learning Development Fund,COURSE,4.8,Beginner,67k
+881,132,машинное обучение и анализ данных,E-Learning Development Fund,SPECIALIZATION,4.7,Intermediate,77k
+882,405,основы digital маркетинга,National Research University Higher School of Economics,SPECIALIZATION,4.5,Intermediate,19k
+883,703,основы программирования на python,National Research University Higher School of Economics,COURSE,4.6,Beginner,83k
+884,841,основы разработки на c белый пояс,E-Learning Development Fund,COURSE,4.9,Intermediate,41k
+885,889,погружение в python,Moscow Institute of Physics and Technology,COURSE,4.7,Intermediate,45k
+886,236,программирование на python,Mail.Ru Group,SPECIALIZATION,4.5,Intermediate,52k
+887,883,психолингвистика psycholinguistics,Saint Petersburg State University,COURSE,4.8,Mixed,21k
+888,545,разработка интерфейсов вёрстка и javascript,E-Learning Development Fund,SPECIALIZATION,4.5,Intermediate,30k
+889,875,русский как иностранный,Saint Petersburg State University,SPECIALIZATION,4.6,Intermediate,9.8k
+890,163,финансовые инструменты для частного инвестора,National Research University Higher School of Economics,SPECIALIZATION,4.7,Beginner,38k
